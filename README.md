@@ -8,7 +8,7 @@ C++ board game to demonstrate dynamic memory management and pointers.
 ![Board Game](Photos/playing.JPG)
 
 - Input Validation
--	Player can move  “car” around the board.
+-	Player can move  car around the board.
 -	Obstacles prevent car from moving.
 -	All memory managed dynamically. 
 
